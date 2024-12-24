@@ -35,7 +35,6 @@
     padding: 7px;
     border-radius: 50%;
 }
-
 .email-lock{
     display: flex;
     justify-content: space-between;
@@ -72,4 +71,9 @@
     border-bottom: 2px solid #949191;
     border-radius: 0;
     outline: none;
+}
+@media (max-width:500px) {
+    .icon-title{
+       font-size: 10px;
+    }
 }
