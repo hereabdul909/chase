@@ -29,20 +29,13 @@
     background-color: #e9ecef;
 
 }
-
 .progress-icon {
     font-size: 24px;
-    color: #6c757d;
-
-}
-.progress-icon.active {
     color: white;
-}
-.progress-i.circle{
-    background-color: #007bff;
-    border-radius: 500%;
     padding: 7px;
+    border-radius: 50%;
 }
+
 .email-lock{
     display: flex;
     justify-content: space-between;
